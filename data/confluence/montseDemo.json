@@ -1,0 +1,13 @@
+{
+	"file": "data/confluence/montseDemo.csv",
+	"name": "Montse Confluence upset plot demo",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "string", "index": 0 }	
+	],
+	"sets": [
+	    { "format": "binary", "start": 0, "end": 5 }
+	]
+}
